@@ -1,0 +1,28 @@
+hr1{ 
+    border:         none;
+    border-left:    1px solid hsla(200, 10%, 50%,200);
+    height:         5vh;
+    width:          1px;       
+}
+.navbar{
+    min-height: 40px;
+    padding: 0 100px;
+}
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul.white{
+    color:white;
+  }
+  hr.white{
+    border-top: 1px solid white;
+  }
+  .navbar-toggler-icon{
+    color:black;
+  }
